@@ -1,8 +1,3 @@
-
-I am a Ph.D. candidate at the University of Texas. I study computational statistics and probability modeling for data analysis, and my advisor is [Carlos Carvalho](https://faculty.mccombs.utexas.edu/carlos.carvalho/).
-
-My identical twin is a postdoc in applied math at the University of North Carolina. His website can be found [here](https://cpuelz.github.io/).
-
 ### Published Papers
 
 1. P. Richard Hahn, Carlos M. Carvalho, David Puelz, Jingyu He (2018). [Regularization and Confounding in Linear Regression for Treatment Effect Estimation.](https://projecteuclid.org/euclid.ba/1484103680) _Bayesian Analysis_.
