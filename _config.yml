@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: David Puelz
 description: I am a Ph.D. candidate at the University of Texas. I study computational statistics and probability modeling for data analysis, and my advisor is <a href="https://faculty.mccombs.utexas.edu/carlos.carvalho/">Carlos Carvalho</a>. <br /><br />  My identical twin is a postdoc in applied math at the University of North Carolina. His website can be found <a href="https://cpuelz.github.io/">here</a>. 
-logo: Puelz.png
+logo: <img src="Puelz.png" width="40%">
