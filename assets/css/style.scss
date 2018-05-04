@@ -3,4 +3,11 @@
 
 @import "{{ site.theme }}";
 
-h1 img {float:right;margin:0 0px 2px 0}
+h1 img {    
+    position: absolute;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
