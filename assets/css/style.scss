@@ -3,3 +3,11 @@
 
 @import "{{ site.theme }}";
 
+.span, .text {
+    vertical-align:middle;
+    display:table-cell;
+}
+h1 {
+    display:table;
+    width:100%;
+}
