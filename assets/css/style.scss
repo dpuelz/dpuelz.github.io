@@ -3,9 +3,9 @@
 
 @import "{{ site.theme }}";
 
-h1 {
-  font-size: 16pt;
-  line-height: 10pt;
-  min-height: 30px;
-  vertical-align: middle;
+h1
+{
+    font-size: 20pt;
+    line-height: 50px;
+    height: 50px;
 }
