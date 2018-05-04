@@ -2,7 +2,9 @@
 
 You can use the [editor on GitHub](https://github.com/dpuelz/davidsite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.  This is a test to see if the website will be updated!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a Ph.D. candidate at the University of Texas. I study computational statistics and probability modeling for data analysis, and my advisor is [Carlos Carvalho](https://faculty.mccombs.utexas.edu/carlos.carvalho/).
+
+My identical twin is a postdoc in applied math at the University of North Carolina. His website can be found [here](https://cpuelz.github.io/).
 
 ### Markdown
 
