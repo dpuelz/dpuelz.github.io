@@ -3,12 +3,3 @@
 
 @import "{{ site.theme }}";
 
-h1 {
-  font-size: 12pt;
-  line-height: 10pt;
-  min-height: 30px;
-
-  position: absolute;
-  float: center; /* If you want it to be centered */
-  padding-top: 50%;
-}
