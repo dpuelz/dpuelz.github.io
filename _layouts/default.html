@@ -14,13 +14,8 @@
   <body>
     <div class="wrapper">
       <header>
-<!--        <h1>
-    <span class="text">David Puelz</span><span class="span">
-        <img class="goldT" src="logo-Booth.jpg">
-    </span>
-</h1> -->
         
-<h1><span href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }} &emsp; <img src="logo-Booth2.jpg" width="65" height="65" /> </span></h1>
+<h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }} &emsp; <img src="logo-Booth2.jpg" width="65" height="65" /> </a></h1>
         
         {% if site.logo %}
       <center>           <img src="{{site.logo | relative_url}}" alt="Logo" width="150" height="150" /> </center>
