@@ -3,9 +3,7 @@
 
 @import "{{ site.theme }}";
 
-a:link, a:visited {
-    background-color: navy;
-    color: white;
-    padding: 14px 14px;
+a:hover {
+    color: hotpink;
+    font-weight: none;
 }
-
