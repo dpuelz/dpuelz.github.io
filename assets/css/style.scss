@@ -3,3 +3,8 @@
 
 @import "{{ site.theme }}";
 
+a:hover {
+    color: hotpink;
+    text-decoration: underline;
+}
+
