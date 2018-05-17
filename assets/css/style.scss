@@ -3,17 +3,31 @@
 
 @import "{{ site.theme }}";
 
-a:hover {   
-    text-shadow: 0 0 .5px #333, 0 0 .5px #333;
+/* a:hover {   
+   font
+  /*    text-shadow: 0 0 .5px #333, 0 0 .5px #333; */
   /* use the line below if you want a more intense effect */
   /* text-shadow: 0 0 .9px #333, 0 0 .9px #333, 0 0 .9px #333; */
 }
 
-.active {
-  font-weight: bold;
-}
-
-a {
+/* a {
   letter-spacing: 0em;
   transition: text-shadow .3s;
+} */
+
+li, a {
+    display:inline-block;
+    text-align:center;
+    text-transform: uppercase;
+}
+a:hover {
+    font-weight:bold;
+}
+a::after {
+    display: block;
+    content: attr(title);
+    font-weight: bold;
+    height: 0;
+    overflow: hidden;
+    visibility: hidden;
 }
