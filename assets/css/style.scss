@@ -3,14 +3,12 @@
 
 @import "{{ site.theme }}";
 
+a.classhead:hover {text-decoration: underline; color: red;   font-weight: bold;}
+
 a:hover {   
-   font-weight: initial
+   font-weight: initial;
   /*    text-shadow: 0 0 .5px #333, 0 0 .5px #333; */
   /* use the line below if you want a more intense effect */
   /* text-shadow: 0 0 .9px #333, 0 0 .9px #333, 0 0 .9px #333; */
 }
 
- a {
-  letter-spacing: 0em;
-  transition: text-shadow .3s;
-} 
