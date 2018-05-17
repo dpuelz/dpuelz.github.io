@@ -12,7 +12,7 @@
     <![endif]-->
   </head>
   <body>
-    <div class="wrapper">
+    <div class="test">
       <header>
         
        <center> <h1> <b> <a href="{{ "/" | absolute_url }}">{{ site.title }}  &emsp; <img align="middle" src="logo-Booth3.jpg" width="65" height="65" /> </a> </b> </h1> </center> 
@@ -40,12 +40,13 @@
         {% endif %}
       </header>
       <section>
-       <!-- <div class="thenew"> -->
+       <div class="wrapper">
 
       {{ content }}
 
       </section>
       <footer>
+      </div>
         {% if site.github.is_project_page %}
        <!-- <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p> -->
         {% endif %}
