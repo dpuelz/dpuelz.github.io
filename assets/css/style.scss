@@ -4,5 +4,10 @@
 @import "{{ site.theme }}";
 
 a:hover {   
+    font-weight: bold;
     text-decoration: underline;
+}
+
+.active {
+  font-weight: bold;
 }
