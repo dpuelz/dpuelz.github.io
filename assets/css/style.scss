@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-a.classhead:hover {text-decoration: underline; color: red;   font-weight: bold;}
+a.classhead:hover {text-decoration: none; color: maroon; font-weight: bold;}
 
 a:hover {   
    font-weight: initial;
