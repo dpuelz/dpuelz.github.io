@@ -3,11 +3,6 @@
 
 @import "{{ site.theme }}";
 
-a:hover {
-    font-weight: initial;
+a:hover {   
     text-decoration: underline;
-}
-
-h1 {
-    color: pink;
 }
