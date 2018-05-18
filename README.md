@@ -17,7 +17,7 @@
 3. [Decoupling Shrinkage and Selection in Finance.](GSFeb2016.pdf) Goldman Sachs. New York, NY (2016).
 4. [The ETF Tangency Portfolio.](SBIESPresentation.pdf) Washington University in St. Louis. Seminar on Bayesian Inference in Econometrics and Statistics. St. Louis, MO (2015).
 5. [Betting Against β: A State-space Approach.](TimeSeriesBABPresentation.pdf) UT McCombs. Austin, TX (2014).
-6. Dissertation Defense.
+6. [Dissertation Defense.](defense.pdf)
 
 
 ### Teaching
