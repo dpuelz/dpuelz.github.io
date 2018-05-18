@@ -6,9 +6,9 @@
 
 ### Working Papers
 
-1. Jared Fisher, Carlos Carvalho, David Puelz (2018).  [Monotonic Effects of Characteristics on Returns.](https://apps.olin.wustl.edu/conf/SBIES/files/pdf/2018/38.pdf).
-2. David Puelz, P. Richard Hahn, Carlos M. Carvalho (2017). [Regret-based Selection for Sparse Dynamic Portfolios.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2995484).
-3. David Puelz, Carlos M. Carvalho, P. Richard Hahn (2015). [Optimal ETF Selection for Passive Investing.](https://arxiv.org/pdf/1510.03385v1.pdf).
+1. Jared Fisher, Carlos Carvalho, David Puelz (2018).  [Monotonic Effects of Characteristics on Returns.](https://apps.olin.wustl.edu/conf/SBIES/files/pdf/2018/38.pdf)
+2. David Puelz, P. Richard Hahn, Carlos M. Carvalho (2017). [Regret-based Selection for Sparse Dynamic Portfolios.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2995484)
+3. David Puelz, Carlos M. Carvalho, P. Richard Hahn (2015). [Optimal ETF Selection for Passive Investing.](https://arxiv.org/pdf/1510.03385v1.pdf)
 
 ### Talks
 
