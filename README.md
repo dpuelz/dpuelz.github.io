@@ -12,13 +12,14 @@
 
 ### Talks
 
-1. [Posterior Summarization in Finance.](ISBA2018.pdf) University of Edinburgh. International Society for Bayesian Analysis World Meeting. Edinburgh, Scotland (2018).
-2. [Regret-based Selection.](SBIES2017.pdf) Washington University in St. Louis. Seminar on Bayesian Inference in Econometrics and Statistics. St. Louis, MO (2017).
-3. [Penalized Utility Estimators in Finance.](SBIES2016.pdf) The Wharton School, University of Pennsylvania. Seminar on Bayesian Inference in Econometrics and Statistics. Philadelphia, PA (2016).
-4. [Decoupling Shrinkage and Selection in Finance.](GSFeb2016.pdf) Goldman Sachs. New York, NY (2016).
-5. [The ETF Tangency Portfolio.](SBIESPresentation.pdf) Washington University in St. Louis. Seminar on Bayesian Inference in Econometrics and Statistics. St. Louis, MO (2015).
-6. [Betting Against β: A State-space Approach.](TimeSeriesBABPresentation.pdf) UT McCombs. Austin, TX (2014).
-7. [Dissertation Defense.](defense.pdf)
+1. [A Flexible Model for Returns.](RPWorkshop.pdf) The University of Chicago Booth School of Business. Research Workshop. Chicago, Illinois (2018).  
+2. [Posterior Summarization in Finance.](ISBA2018.pdf) University of Edinburgh. International Society for Bayesian Analysis World Meeting. Edinburgh, Scotland (2018).
+3. [Regret-based Selection.](SBIES2017.pdf) Washington University in St. Louis. Seminar on Bayesian Inference in Econometrics and Statistics. St. Louis, MO (2017).
+4. [Penalized Utility Estimators in Finance.](SBIES2016.pdf) The Wharton School, University of Pennsylvania. Seminar on Bayesian Inference in Econometrics and Statistics. Philadelphia, PA (2016).
+5. [Decoupling Shrinkage and Selection in Finance.](GSFeb2016.pdf) Goldman Sachs. New York, NY (2016).
+6. [The ETF Tangency Portfolio.](SBIESPresentation.pdf) Washington University in St. Louis. Seminar on Bayesian Inference in Econometrics and Statistics. St. Louis, MO (2015).
+7. [Betting Against β: A State-space Approach.](TimeSeriesBABPresentation.pdf) UT McCombs. Austin, TX (2014).
+8. [Dissertation Defense.](defense.pdf)
 
 
 ### Teaching
