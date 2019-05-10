@@ -13,7 +13,7 @@
 
 ### Talks
 
-1. [Randomization Tests of Causal Effects Under General Interference](lunch_seminar.pdf). The University of Chicago Booth School of Business.  Econometrics and Statistics Seminar.  Chicago, Illinois (2019). / Atlantic Causal Inference Conference.  McGill University. Montreal, Canada (2019).    
+1. [Randomization Tests of Causal Effects Under General Interference](lunch_seminar.pdf). The University of Chicago Booth School of Business.  Econometrics and Statistics Seminar.  Chicago, Illinois (2019) / Atlantic Causal Inference Conference.  McGill University. Montreal, Canada (2019).    
 2. [A Flexible Model for Returns.](RPWorkshop.pdf) The University of Chicago Booth School of Business. Research Workshop. Chicago, Illinois (2018).  
 3. [Posterior Summarization in Finance.](ISBA2018.pdf) University of Edinburgh. International Society for Bayesian Analysis World Meeting. Edinburgh, Scotland (2018).
 4. [Regret-based Selection.](SBIES2017.pdf) Washington University in St. Louis. Seminar on Bayesian Inference in Econometrics and Statistics. St. Louis, MO (2017).
