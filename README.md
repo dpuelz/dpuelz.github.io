@@ -6,10 +6,12 @@
 
 ### Working Papers
 
-1. Jared Fisher, David Puelz, Carlos Carvalho  (2018).  [Monotonic Effects of Characteristics on Returns.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3212934)
-2. David Puelz and Robert Puelz (2018).  [Financial Literacy and Economic Outcomes.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3302978)
-3. David Puelz, P. Richard Hahn, Carlos M. Carvalho (2018). [Portfolio Selection for Individual Passive Investing.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2995484)
-4. David Puelz, Carlos M. Carvalho, P. Richard Hahn (2017). [Optimal ETF Selection for Passive Investing.](https://arxiv.org/pdf/1510.03385v1.pdf)
+1. David Puelz, Guillaume Basse, Avi Feller, Panos Toulis (2019). A Graph-Theoretic Approach to Randomization Tests of
+Causal Effects Under General Interference.
+2. Jared Fisher, David Puelz, Carlos Carvalho  (2019).  [Monotonic Effects of Characteristics on Returns.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3212934)
+3. David Puelz and Robert Puelz (2019).  [Financial Literacy and Economic Outcomes.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3302978)
+4. David Puelz, P. Richard Hahn, Carlos M. Carvalho (2018). [Portfolio Selection for Individual Passive Investing.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2995484)
+5. David Puelz, Carlos M. Carvalho, P. Richard Hahn (2017). [Optimal ETF Selection for Passive Investing.](https://arxiv.org/pdf/1510.03385v1.pdf)
 
 ### Talks
 
