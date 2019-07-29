@@ -1,8 +1,9 @@
 ### Published Papers
 
-1. P. Richard Hahn, Carlos M. Carvalho, David Puelz, Jingyu He (2018). [Regularization and Confounding in Linear Regression for Treatment Effect Estimation.](https://projecteuclid.org/euclid.ba/1484103680) _Bayesian Analysis_.
-2. David Puelz, P. Richard Hahn, Carlos M. Carvalho (2017). [Variable Selection in Seemingly Unrelated Regressions with Random Predictors.](https://projecteuclid.org/euclid.ba/1488855633#abstract) _Bayesian Analysis_.
-3. David Puelz.  [Regularization in Econometrics and Finance.](https://catalog.lib.utexas.edu/record=b9541996~S29)  Dissertation.
+1. David Puelz, P. Richard Hahn, Carlos M. Carvalho. [Portfolio Selection for Individual Passive Investing.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2995484)_Applied Stochastic Models in Business and Industry_ (to appear).
+2. P. Richard Hahn, Carlos M. Carvalho, David Puelz, Jingyu He (2018). [Regularization and Confounding in Linear Regression for Treatment Effect Estimation.](https://projecteuclid.org/euclid.ba/1484103680) _Bayesian Analysis_.
+3. David Puelz, P. Richard Hahn, Carlos M. Carvalho (2017). [Variable Selection in Seemingly Unrelated Regressions with Random Predictors.](https://projecteuclid.org/euclid.ba/1488855633#abstract) _Bayesian Analysis_.
+4. David Puelz.  [Regularization in Econometrics and Finance.](https://catalog.lib.utexas.edu/record=b9541996~S29)  Dissertation.
 
 ### Working Papers
 
@@ -10,8 +11,7 @@
 Causal Effects Under General Interference.
 2. Jared Fisher, David Puelz, Carlos Carvalho  (2019).  [Monotonic Effects of Characteristics on Returns.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3212934)
 3. David Puelz and Robert Puelz (2019).  [Financial Literacy and Economic Outcomes.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3302978)
-4. David Puelz, P. Richard Hahn, Carlos M. Carvalho (2018). [Portfolio Selection for Individual Passive Investing.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2995484)
-5. David Puelz, Carlos M. Carvalho, P. Richard Hahn (2017). [Optimal ETF Selection for Passive Investing.](https://arxiv.org/pdf/1510.03385v1.pdf)
+4. David Puelz, Carlos M. Carvalho, P. Richard Hahn (2017). [Optimal ETF Selection for Passive Investing.](https://arxiv.org/pdf/1510.03385v1.pdf)
 
 ### Talks
 
