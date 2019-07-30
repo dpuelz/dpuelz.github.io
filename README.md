@@ -1,8 +1,8 @@
 ### Published Papers
 
-1. [Portfolio Selection for Individual Passive Investing.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2995484) _Applied Stochastic Models in Business and Industry_ (to appear), with P Hahn and C Carvalho.
-2. [Regularization and Confounding in Linear Regression for Treatment Effect Estimation.](https://projecteuclid.org/euclid.ba/1484103680) _Bayesian Analysis_ (2018), with J He, P Hahn, and C Carvalho.
-3. [Variable Selection in Seemingly Unrelated Regressions with Random Predictors.](https://projecteuclid.org/euclid.ba/1488855633#abstract) _Bayesian Analysis_ (2017), with Hahn and C Carvalho.
+1. [Portfolio Selection for Individual Passive Investing.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2995484) _Applied Stochastic Models in Business and Industry_ (to appear), with PR Hahn and C Carvalho.
+2. [Regularization and Confounding in Linear Regression for Treatment Effect Estimation.](https://projecteuclid.org/euclid.ba/1484103680) _Bayesian Analysis_ (2018), with J He, PR Hahn, and C Carvalho.
+3. [Variable Selection in Seemingly Unrelated Regressions with Random Predictors.](https://projecteuclid.org/euclid.ba/1488855633#abstract) _Bayesian Analysis_ (2017), with PR Hahn and C Carvalho.
 4. [Regularization in Econometrics and Finance](https://catalog.lib.utexas.edu/record=b9541996~S29) (2018), dissertation.
 
 ### Working Papers
@@ -10,7 +10,7 @@
 1. A Graph-Theoretic Approach to Randomization Tests of Causal Effects Under General Interference (2019), with G Basse, A Feller, and P Toulis.
 2. [Monotonic Effects of Characteristics on Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3212934) (2019), with J Fisher and C Carvalho.
 3. [Financial Literacy and Economic Outcomes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3302978) (2019), with R Puelz.
-4. [Optimal ETF Selection for Passive Investing](https://arxiv.org/pdf/1510.03385v1.pdf) (2018), with R Hahn and C Carvalho.
+4. [Optimal ETF Selection for Passive Investing](https://arxiv.org/pdf/1510.03385v1.pdf) (2018), with PR Hahn and C Carvalho.
 
 ### Talks
 
