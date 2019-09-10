@@ -1,6 +1,6 @@
 ### Published Papers
 
-[Portfolio Selection for Individual Passive Investing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2995484), *with PR Hahn and C Carvalho*, _Applied Stochastic Models in Business and Industry_ (to appear).
+[Portfolio Selection for Individual Passive Investing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2995484), with PR Hahn and C Carvalho, _Applied Stochastic Models in Business and Industry_ (to appear).
 
 2. [Regularization and Confounding in Linear Regression for Treatment Effect Estimation.](https://projecteuclid.org/euclid.ba/1484103680) _Bayesian Analysis_ (2018), with J He, PR Hahn, and C Carvalho.
 3. [Variable Selection in Seemingly Unrelated Regressions with Random Predictors.](https://projecteuclid.org/euclid.ba/1488855633#abstract) _Bayesian Analysis_ (2017), with PR Hahn and C Carvalho.
