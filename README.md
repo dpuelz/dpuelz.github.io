@@ -10,10 +10,13 @@
 
 ### Working Papers
 
-1. A Graph-Theoretic Approach to Randomization Tests of Causal Effects Under General Interference (2019), with G Basse, A Feller, and P Toulis.
-2. [Monotonic Effects of Characteristics on Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3212934) (2019), with J Fisher and C Carvalho.
-3. [Financial Literacy and Economic Outcomes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3302978) (2019), with R Puelz.
-4. [Optimal ETF Selection for Passive Investing](https://arxiv.org/pdf/1510.03385v1.pdf) (2018), with PR Hahn and C Carvalho.
+A Graph-Theoretic Approach to Randomization Tests of Causal Effects Under General Interference (2019), with G Basse, A Feller, and P Toulis.<br/> 
+
+[Monotonic Effects of Characteristics on Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3212934) (2019), with J Fisher and C Carvalho.<br/> 
+
+[Financial Literacy and Economic Outcomes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3302978) (2019), with R Puelz.<br/> 
+
+[Optimal ETF Selection for Passive Investing](https://arxiv.org/pdf/1510.03385v1.pdf) (2018), with PR Hahn and C Carvalho.
 
 ### Talks
 
