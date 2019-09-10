@@ -1,10 +1,6 @@
 ### Published Papers
 
-#### Causal Inference
-
 [Regularization and Confounding in Linear Regression for Treatment Effect Estimation](https://projecteuclid.org/euclid.ba/1484103680), with J He, PR Hahn, and C Carvalho, _Bayesian Analysis_ (2018).
-
-#### Variable Selection
 
 [Portfolio Selection for Individual Passive Investing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2995484), with PR Hahn and C Carvalho, _Applied Stochastic Models in Business and Industry_ (to appear).
 
