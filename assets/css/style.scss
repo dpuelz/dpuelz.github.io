@@ -1,6 +1,4 @@
 ---
-layout: single
-classes: wide
 ---
 
 @import "{{ site.theme }}";
@@ -14,17 +12,4 @@ a.classhead:hover {
 a:hover {   
    font-weight: initial;
    color: maroon; 
-}
-
-.wide {
-  
-  .page {
-    // override right padding and width's to make wide
-  }
-
-  .sidebar__right {
-    // override negative margin, width, positioning, etc.
-  }
-
-  // any other overrides needed for a wide `.page`
 }
