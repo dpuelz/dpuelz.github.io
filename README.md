@@ -22,19 +22,19 @@ A Graph-Theoretic Approach to Randomization Tests of Causal Effects Under Genera
 
 _(upcoming)_ -- 09/2019: Advances with Field Experiments (uChicago), 10/2019: Design and Analysis of Experiments (UT Knoxville).
 
-[Randomization Tests of Causal Effects Under General Interference](lunch_seminar.pdf). The University of Chicago Booth School of Business - Econometrics and Statistics Seminar (2019) / Atlantic Causal Inference Conference - McGill University (2019) /  International Conference on the Design of Experiments - University of Memphis (2019) / Society for Political Methodology Annual Meeting - MIT (2019).
+[Randomization Tests of Causal Effects Under General Interference.](lunch_seminar.pdf) The University of Chicago Booth School of Business - Econometrics and Statistics Seminar (2019) / Atlantic Causal Inference Conference - McGill University (2019) /  International Conference on the Design of Experiments - University of Memphis (2019) / Society for Political Methodology Annual Meeting - MIT (2019).
 
-[A Flexible Model for Returns.](RPWorkshop.pdf) Eastern Asia ISBA Conference - Kobe University (Japan, 2019) / The University of Chicago Booth School of Business - Research Workshop (2018).  
+[A Flexible Model for Returns.](RPWorkshop.pdf) Seminar on Bayesian Inference in Econometrics and Statistics - Brown University (2019) / Eastern Asia ISBA Conference - Kobe University (Japan, 2019) / The University of Chicago Booth School of Business - Research Workshop (2018).  
 
-[Posterior Summarization in Finance.](ISBA2018.pdf) University of Edinburgh. International Society for Bayesian Analysis World Meeting. Edinburgh, Scotland (2018).
+[Posterior Summarization in Finance.](ISBA2018.pdf) International Society for Bayesian Analysis World Meeting - University of Edinburgh (2018).
 
-[Regret-based Selection.](SBIES2017.pdf) Washington University in St. Louis. Seminar on Bayesian Inference in Econometrics and Statistics. St. Louis, MO (2017).
+[Regret-based Selection.](SBIES2017.pdf) Seminar on Bayesian Inference in Econometrics and Statistics - Washington University in St. Louis (2017).
 
-[Penalized Utility Estimators in Finance.](SBIES2016.pdf) The Wharton School, University of Pennsylvania. Seminar on Bayesian Inference in Econometrics and Statistics. Philadelphia, PA (2016).
+[Penalized Utility Estimators in Finance.](SBIES2016.pdf) Seminar on Bayesian Inference in Econometrics and Statistics - The Wharton School, University of Pennsylvania (2016).
 
 [Decoupling Shrinkage and Selection in Finance.](GSFeb2016.pdf) Goldman Sachs. New York, NY (2016).
 
-[The ETF Tangency Portfolio.](SBIESPresentation.pdf) Washington University in St. Louis. Seminar on Bayesian Inference in Econometrics and Statistics. St. Louis, MO (2015).
+[The ETF Tangency Portfolio.](SBIESPresentation.pdf) Seminar on Bayesian Inference in Econometrics and Statistics - Washington University in St. Louis (2015).
 
 [Betting Against β: A State-space Approach.](TimeSeriesBABPresentation.pdf) UT McCombs. Austin, TX (2014).
 
