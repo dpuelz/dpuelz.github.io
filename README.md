@@ -20,6 +20,8 @@ A Graph-Theoretic Approach to Randomization Tests of Causal Effects Under Genera
 
 ### Talks
 
+_(forthcoming)_ 9/2019: Advances with Field Experiments (uChicago), 10/2019: Design and Analysis of Experiments (UT Knoxville)
+
 [Randomization Tests of Causal Effects Under General Interference](lunch_seminar.pdf). The University of Chicago Booth School of Business.  Econometrics and Statistics Seminar.  Chicago, Illinois (2019) / Atlantic Causal Inference Conference.  McGill University. Montreal, Canada (2019).  
 
 [A Flexible Model for Returns.](RPWorkshop.pdf) The University of Chicago Booth School of Business. Research Workshop. Chicago, Illinois (2018).  
