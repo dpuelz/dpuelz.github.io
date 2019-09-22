@@ -10,7 +10,7 @@
 
 ### Working Papers
 
-[A Graph-Theoretic Approach to Randomization Tests of Causal Effects Under General Interference](causal_cliques_Sep2019.pdf), with G Basse, A Feller, and P Toulis (2019).
+[A Graph-Theoretic Approach to Randomization Tests of Causal Effects Under General Interference](causal_cliques_Draft.pdf), with G Basse, A Feller, and P Toulis (2019).
 
 [Monotonic Effects of Characteristics on Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3212934), with J Fisher and C Carvalho (2019).
 
