@@ -10,7 +10,7 @@
 
 ### Working Papers
 
-A Symmetric Prior for Multinomial Probit Models, with LH Burgette and PR Hahn (2020).
+A Symmetric Prior for Multinomial Probit Models, with LH Burgette and PR Hahn (2019).
 
 [A Graph-Theoretic Approach to Randomization Tests of Causal Effects Under General Interference](https://arxiv.org/pdf/1910.10862.pdf), with G Basse, A Feller, and P Toulis (2019).
 
