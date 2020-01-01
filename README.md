@@ -1,26 +1,26 @@
-### Published Papers
+## Papers
 
-[Portfolio Selection for Individual Passive Investing](portfoliopaper.pdf), with PR Hahn and C Carvalho, _Applied Stochastic Models in Business and Industry_ (to appear).
+### Causal inference and randomizations
+
+[A Graph-Theoretic Approach to Randomization Tests of Causal Effects Under General Interference](https://arxiv.org/pdf/1910.10862.pdf), with G Basse, A Feller, and P Toulis (2019).
+
+[Financial Literacy and Economic Outcomes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3302978), with R Puelz (2019).
 
 [Regularization and Confounding in Linear Regression for Treatment Effect Estimation](https://projecteuclid.org/euclid.ba/1484103680), with J He, PR Hahn, and C Carvalho, _Bayesian Analysis_ (2018).
+
+### Bayesian methods
+
+[A Symmetric Prior for Multinomial Probit Models](https://arxiv.org/abs/1912.10334), with LH Burgette and PR Hahn (2019).
+
+[Monotonic Effects of Characteristics on Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3212934), with J Fisher and C Carvalho (2019).
+
+[Portfolio Selection for Individual Passive Investing](portfoliopaper.pdf), with PR Hahn and C Carvalho, _Applied Stochastic Models in Business and Industry_ (to appear).
 
 [Variable Selection in Seemingly Unrelated Regressions with Random Predictors](https://projecteuclid.org/euclid.ba/1488855633#abstract), with PR Hahn and C Carvalho, _Bayesian Analysis_ (2017).
 
 [Regularization in Econometrics and Finance](https://catalog.lib.utexas.edu/record=b9541996~S29), dissertation (2018).
 
-### Working Papers
-
-[A Symmetric Prior for Multinomial Probit Models](https://arxiv.org/abs/1912.10334), with LH Burgette and PR Hahn (2019).
-
-[A Graph-Theoretic Approach to Randomization Tests of Causal Effects Under General Interference](https://arxiv.org/pdf/1910.10862.pdf), with G Basse, A Feller, and P Toulis (2019).
-
-[Monotonic Effects of Characteristics on Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3212934), with J Fisher and C Carvalho (2019).
-
-[Financial Literacy and Economic Outcomes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3302978), with R Puelz (2019).
-
-[Optimal ETF Selection for Passive Investing](https://arxiv.org/pdf/1510.03385v1.pdf), with PR Hahn and C Carvalho (2018).
-
-### Talks
+## Talks
 
 [Randomization Tests of Causal Effects Under General Interference.](lunch_seminar.pdf) The University of Chicago Booth School of Business - Econometrics and Statistics Seminar (2019) / Atlantic Causal Inference Conference - McGill University (2019) /  International Conference on the Design of Experiments - University of Memphis (2019) / Society for Political Methodology Annual Meeting - MIT (2019) / Design and Analysis of Experiments - UT Knoxville (2019) / Advances with Field Experiments - Chicago Economics (2019).
 
