@@ -1,5 +1,5 @@
-Papers
-------
+## Papers
+<hr>
 
 ### Causal inference and randomizations
 
