@@ -1,4 +1,5 @@
-## Papers
+Papers
+------
 
 ### Causal inference and randomizations
 
@@ -20,7 +21,8 @@
 
 [Regularization in Econometrics and Finance](https://catalog.lib.utexas.edu/record=b9541996~S29), dissertation (2018).
 
-## Talks
+Talks
+-----
 
 [Randomization Tests of Causal Effects Under General Interference.](lunch_seminar.pdf) The University of Chicago Booth School of Business - Econometrics and Statistics Seminar (2019) / Atlantic Causal Inference Conference - McGill University (2019) /  International Conference on the Design of Experiments - University of Memphis (2019) / Society for Political Methodology Annual Meeting - MIT (2019) / Design and Analysis of Experiments - UT Knoxville (2019) / Advances with Field Experiments - Chicago Economics (2019).
 
@@ -41,7 +43,8 @@
 [Dissertation Defense.](defense.pdf)
 
 
-### Teaching
+Teaching
+--------
 
 [Machine Learning in Finance.](MLLecture.pdf) Quantitative Investing Strategies. Spring 2016.
 
