@@ -3,7 +3,8 @@
 
 ### Causal inference and randomizations
 
-[A Graph-Theoretic Approach to Randomization Tests of Causal Effects Under General Interference](https://arxiv.org/pdf/1910.10862.pdf), with G Basse, A Feller, and P Toulis (2019). [`R package`](https://github.com/dpuelz/CliqueRT/blob/master/README.md) under development.
+[A Graph-Theoretic Approach to Randomization Tests of Causal Effects Under General Interference](https://arxiv.org/pdf/1910.10862.pdf), with G Basse, A Feller, and P Toulis (2019). 
+[``R package``](https://github.com/dpuelz/CliqueRT/blob/master/README.md) under development.
 
 [Financial Literacy and Economic Outcomes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3302978), with R Puelz (2019).
 
