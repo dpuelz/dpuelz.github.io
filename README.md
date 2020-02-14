@@ -19,7 +19,7 @@
 
 [Variable Selection in Seemingly Unrelated Regressions with Random Predictors](https://projecteuclid.org/euclid.ba/1488855633#abstract), with PR Hahn and C Carvalho, _Bayesian Analysis_ (2017).
 
-[Regularization in Econometrics and Finance](https://catalog.lib.utexas.edu/record=b9541996~S29), dissertation (2018).
+[Regularization in Econometrics and Finance](https://repositories.lib.utexas.edu/bitstream/handle/2152/65998/PUELZ-DISSERTATION-2018.pdf), dissertation (2018).
 
 ## Talks
 <hr>
