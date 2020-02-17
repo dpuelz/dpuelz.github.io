@@ -24,7 +24,7 @@
 ## Talks
 <hr>
 
-**upcoming:* IISA 2020 - Statistics in the Era of Evidence-based Inference, July 2020.
+*upcoming:* IISA 2020 - Statistics in the Era of Evidence-based Inference, July 2020.
 
 [Randomization Tests of Causal Effects Under General Interference.](lunch_seminar.pdf) The University of Chicago Booth School of Business - Econometrics and Statistics Seminar (2019) / Atlantic Causal Inference Conference - McGill University (2019) /  International Conference on the Design of Experiments - University of Memphis (2019) / Society for Political Methodology Annual Meeting - MIT (2019) / Design and Analysis of Experiments - UT Knoxville (2019) / Advances with Field Experiments - Chicago Economics (2019).
 
