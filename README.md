@@ -11,7 +11,7 @@
 
 ### Bayesian methods
 
-[A Symmetric Prior for Multinomial Probit Models](https://arxiv.org/abs/1912.10334), with LH Burgette and PR Hahn (2020).
+[A Symmetric Prior for Multinomial Probit Models](https://arxiv.org/abs/1912.10334), with LH Burgette and PR Hahn (2020).<br />    * [``R package``](https://github.com/dpuelz/sMNP/blob/master/README.md) under development.
 
 [Monotonic Effects of Characteristics on Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3212934), with J Fisher and C Carvalho (2019).
 
