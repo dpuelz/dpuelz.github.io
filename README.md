@@ -13,7 +13,7 @@
 
 [A Symmetric Prior for Multinomial Probit Models](https://arxiv.org/abs/1912.10334), with LH Burgette and PR Hahn (2020).<br />    * [``R package``](https://github.com/dpuelz/sMNP/blob/master/README.md) under development.
 
-[Monotonic Effects of Characteristics on Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3212934), with J Fisher and C Carvalho (2019).
+[Monotonic Effects of Characteristics on Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3212934), with J Fisher and C Carvalho _Annals of Applied Statistics_ (to appear).
 
 [Portfolio Selection for Individual Passive Investing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2995484), with PR Hahn and C Carvalho, _Applied Stochastic Models in Business and Industry_ (to appear).
 
