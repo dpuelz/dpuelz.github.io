@@ -15,7 +15,7 @@
 
 [Monotonic Effects of Characteristics on Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3212934), with J Fisher and C Carvalho, _Annals of Applied Statistics_ (to appear).
 
-[Portfolio Selection for Individual Passive Investing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2995484), with PR Hahn and C Carvalho, _Applied Stochastic Models in Business and Industry_ (to appear).
+[Portfolio Selection for Individual Passive Investing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2995484), with PR Hahn and C Carvalho, _Applied Stochastic Models in Business and Industry_ (2020).
 
 [Variable Selection in Seemingly Unrelated Regressions with Random Predictors](https://projecteuclid.org/euclid.ba/1488855633#abstract), with PR Hahn and C Carvalho, _Bayesian Analysis_ (2017).
 
