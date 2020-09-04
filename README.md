@@ -3,7 +3,7 @@
 
 ### Causal inference and randomizations
 
-[A Graph-Theoretic Approach to Randomization Tests of Causal Effects Under General Interference](https://arxiv.org/pdf/1910.10862.pdf), with G Basse, A Feller, and P Toulis (2019).<br />    * [``R package``](https://github.com/dpuelz/CliqueRT/blob/master/README.md) under development.
+[A Graph-Theoretic Approach to Randomization Tests of Causal Effects Under General Interference](https://arxiv.org/pdf/1910.10862.pdf), with G Basse, A Feller, and P Toulis (2019).<br />    * [``R package``](https://github.com/dpuelz/CliqueRT/blob/master/README.md) under development.  <br />    * [Chicago Booth Review](https://review.chicagobooth.edu/strategy/2020/article/how-improve-randomized-trials) article. 
 
 [Financial Literacy and Economic Outcomes](), with R Puelz (2019).
 
@@ -13,7 +13,7 @@
 
 [A Symmetric Prior for Multinomial Probit Models](https://arxiv.org/abs/1912.10334), with LH Burgette and PR Hahn, _Bayesian Analysis_ (to appear).
 <!-- <br />    * [``R package``](https://github.com/dpuelz/sMNP/blob/master/README.md) under development. -->
-<!-- <br />    * [Chicago Booth Review](https://review.chicagobooth.edu/strategy/2020/article/how-improve-randomized-trials) article. -->
+
 
 [Monotonic Effects of Characteristics on Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3212934), with J Fisher and C Carvalho, _Annals of Applied Statistics_ (to appear).
 
