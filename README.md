@@ -24,7 +24,7 @@
 
 ### COVID-19 reviews
 
-[Review of: "Firearm Purchasing and Firearm Violence in the First Months of the Coronavirus Pandemic in the United States"](covid19_rapidreview.pdf), with J Fisher, _Rapid Reviews: COVID-19_ (to appear).
+[Review of: "Firearm Purchasing and Firearm Violence in the First Months of the Coronavirus Pandemic in the United States"](https://rapidreviewscovid19.mitpress.mit.edu/pub/3mbutnjm/release/2), with J Fisher, _Rapid Reviews: COVID-19_ (to appear).
 
 ## Talks
 <hr>
