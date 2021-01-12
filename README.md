@@ -5,7 +5,7 @@
 
 [A Graph-Theoretic Approach to Randomization Tests of Causal Effects Under General Interference](https://arxiv.org/pdf/1910.10862.pdf), with G Basse, A Feller, and P Toulis (2019).<br />    * [``R package``](https://github.com/dpuelz/CliqueRT/blob/master/README.md) under development.  <br />    * [_Chicago Booth Review_](https://review.chicagobooth.edu/strategy/2020/article/how-improve-randomized-trials) article. 
 
-[Financial Literacy and Perceived Economic Outcomes](Financial_Literacy_and_Perceived_Economic_Outcomes_2021.pdf), with R Puelz (2021).
+[Financial Literacy and Perceived Economic Outcomes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3302978), with R Puelz (2021).
 
 [Regularization and Confounding in Linear Regression for Treatment Effect Estimation](https://projecteuclid.org/euclid.ba/1484103680), with J He, PR Hahn, and C Carvalho, _Bayesian Analysis_ (2018).
 
