@@ -29,7 +29,7 @@
 ## Talks
 <hr>
 
-[Randomization Tests of Causal Effects Under General Interference.](lunch_seminar.pdf) Arizona State University (_forthcoming_) / The University of Chicago Booth School of Business - Econometrics and Statistics Seminar (2019) / Atlantic Causal Inference Conference - McGill University (2019) /  International Conference on the Design of Experiments - University of Memphis (2019) / Society for Political Methodology Annual Meeting - MIT (2019) / Design and Analysis of Experiments - UT Knoxville (2019) / Advances with Field Experiments - Chicago Economics (2019).
+[Randomization Tests of Causal Effects Under General Interference.](lunch_seminar.pdf) Arizona State University (November 2020) / The University of Chicago Booth School of Business - Econometrics and Statistics Seminar (2019) / Atlantic Causal Inference Conference - McGill University (2019) /  International Conference on the Design of Experiments - University of Memphis (2019) / Society for Political Methodology Annual Meeting - MIT (2019) / Design and Analysis of Experiments - UT Knoxville (2019) / Advances with Field Experiments - Chicago Economics (2019).
 
 [A Flexible Model for Returns.](RPWorkshop.pdf) Seminar on Bayesian Inference in Econometrics and Statistics - Brown University (2019) / Eastern Asia ISBA Conference - Kobe University (Japan, 2019) / The University of Chicago Booth School of Business - Research Workshop (2018).  
 
