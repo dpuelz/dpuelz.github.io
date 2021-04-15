@@ -4,7 +4,7 @@
 ### Causal inference and randomizations
 
 [A Graph-Theoretic Approach to Randomization Tests of Causal Effects Under General Interference](https://arxiv.org/pdf/1910.10862.pdf), with G Basse, A Feller, and P Toulis (2019).<br />    * [``R package``](https://github.com/dpuelz/CliqueRT/blob/master/README.md) under development.  <br />    * _Chicago Booth Review_ [video](https://review.chicagobooth.edu/economics/2021/video/how-companies-can-run-more-informative-experiments) (embedded below) and [article](https://review.chicagobooth.edu/strategy/2020/article/how-improve-randomized-trials).
-<center><iframe width="311" height="175" src="https://www.youtube.com/embed/Uf67jFCUIWs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="400" height="225" src="https://www.youtube.com/embed/Uf67jFCUIWs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <br/> 
 [Financial Literacy and Perceived Economic Outcomes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3302978), with R Puelz (2021).
 
