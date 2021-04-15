@@ -7,6 +7,7 @@
 <center>
 <iframe width="354" height="200" src="https://www.youtube.com/embed/Uf67jFCUIWs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
+
 &nbsp; 
 
 [Financial Literacy and Perceived Economic Outcomes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3302978), with R Puelz (2021).
