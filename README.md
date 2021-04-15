@@ -3,8 +3,7 @@
 
 ### Causal inference and randomizations
 
-[A Graph-Theoretic Approach to Randomization Tests of Causal Effects Under General Interference](https://arxiv.org/pdf/1910.10862.pdf), with G Basse, A Feller, and P Toulis (2019).<br />    * [``R package``](https://github.com/dpuelz/CliqueRT/blob/master/README.md) under development.  <br />    * _Chicago Booth Review_ [video](https://review.chicagobooth.edu/economics/2021/video/how-companies-can-run-more-informative-experiments) (embedded below) and [article](https://review.chicagobooth.edu/strategy/2020/article/how-improve-randomized-trials). 
-<center>
+[A Graph-Theoretic Approach to Randomization Tests of Causal Effects Under General Interference](https://arxiv.org/pdf/1910.10862.pdf), with G Basse, A Feller, and P Toulis (2019).<br />    * [``R package``](https://github.com/dpuelz/CliqueRT/blob/master/README.md) under development.  <br />    * _Chicago Booth Review_ [video](https://review.chicagobooth.edu/economics/2021/video/how-companies-can-run-more-informative-experiments) (embedded below) and [article](https://review.chicagobooth.edu/strategy/2020/article/how-improve-randomized-trials).\<center>
 <iframe width="267" height="150" src="https://www.youtube.com/embed/Uf67jFCUIWs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
