@@ -18,8 +18,7 @@
        <center> <h1> <b> <a class="classhead" >{{ site.title }}  &emsp; <img align="middle" src="logo-Booth3.jpg" width="65" height="65" /> </a> </b> </h1> </center> 
        {% if site.logo %}
       </li><li><center><img src="{{site.logo | relative_url}}" alt="Logo" width="150" height="150" /> </center>
-        {% endif %}
-       <br />     
+        {% endif %}    
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         
         {% if site.github.is_project_page %}
