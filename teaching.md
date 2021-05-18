@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Policy Research Labratory (Fall 2021)
+## Policy Research Laboratory (Fall 2021)
 <hr>
 
 The Policy Research Laboratory (PRL) is offered in the McCombs School of Business.  Students will take a semester-long course in statistics, econometrics, and data science to learn the tools necessary for policy and social science research. In parallel, the students will apply these tools to real-world data and answer crucial policy questions. Policy research is important, and appropriately using data, cutting-edge statistical tools and remaining skeptical are equally important. Students can expect to leave this class with a deep understanding of policy questions and a toolbox for evaluating them.
