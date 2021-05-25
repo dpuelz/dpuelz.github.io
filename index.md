@@ -20,7 +20,7 @@ layout: default
 
 [Monotonic Effects of Characteristics on Returns](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-14/issue-4/Monotonic-effects-of-characteristics-on-returns/10.1214/20-AOAS1351.short), with J Fisher and C Carvalho, _Annals of Applied Statistics_ (2020).
 
-[Portfolio Selection for Individual Passive Investing](https://onlinelibrary.wiley.com/doi/full/10.1002/asmb.2483), with PR Hahn and C Carvalho, _Applied Stochastic Models in Business and Industry_ (2020).
+[Portfolio Selection for Individual Passive Investing](https://onlinelibrary.wiley.com/doi/full/10.1002/asmb.2483), with PR Hahn and C Carvalho, _Applied Stochastic Models in Business and Industry_ (2019).
 
 [Variable Selection in Seemingly Unrelated Regressions with Random Predictors](https://projecteuclid.org/euclid.ba/1488855633#abstract), with PR Hahn and C Carvalho, _Bayesian Analysis_ (2017).
 
