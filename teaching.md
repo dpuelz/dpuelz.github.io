@@ -5,7 +5,7 @@ layout: default
 ## Introduction to Machine Learning (Summer 2021)
 <hr>
 
-This is the second half of a two-part introductory course on predictive modeling for students in the MS program in Business Analytics at UT-Austin. In the first half of the course, you learned about predictive models for labeled data (i.e. regression, or supervised learning). In the second half, we will turn to the following topics:
+This is the second half of a two-part introductory course on predictive modeling for students in the MS program in Business Analytics at UT Austin. In the first half of the course, you learned about predictive models for labeled data (i.e. regression, or supervised learning). In the second half, we will turn to the following topics:
 
 - a refresher of some important probability concepts.
 - exploratory data analysis.
