@@ -10,7 +10,7 @@ This is the second half of a two-part introductory course on predictive modeling
 - a refresher of some important probability concepts.
 - exploratory data analysis.
 - resampling methods for uncertainty quantification.
-- unsupervised learnig, i.e. learning to model structure in unlabeled data.
+- unsupervised learning, i.e. learning to model structure in unlabeled data.
 
 The course is intended as an overview, rather than an in-depth treatment of any particular topic. We will move fast and cover a lot, but will focus on practical applications rather than theory.
 
