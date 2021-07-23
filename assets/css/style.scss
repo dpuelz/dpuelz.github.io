@@ -1,4 +1,11 @@
+---
+---
+
 @import "{{ site.theme }}";
+
+h2, .h2 {
+    font-size: 160%;
+}
 
 a:hover {   
    font-weight: initial;
@@ -8,5 +15,5 @@ a:hover {
 a.classhead:hover {
    text-decoration: none; 
    color: maroon; 
-   font-weight: initial;
+   font-weight: bold;
 }
