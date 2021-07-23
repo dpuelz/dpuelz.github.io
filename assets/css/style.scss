@@ -1,8 +1,6 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
 a:hover {   
    font-weight: initial;
    color: maroon; 
@@ -13,3 +11,5 @@ a.classhead:hover {
    color: maroon; 
    font-weight: bold;
 }
+
+@import "{{ site.theme }}";
