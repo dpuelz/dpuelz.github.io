@@ -1,4 +1,4 @@
-theme: minimal
+theme: theme: jekyll-theme-minimal
 title: David Puelz
 description: <center> <a href="./index.html">Research</a> | <a href="./teaching.html">Teaching</a> <br /> <a href="davidpuelzCV_Jul2021.pdf">CV</a> | <a href="https://scholar.google.com/citations?user=TZGqbWcAAAAJ&hl=en&oi=ao">Google Scholar</a> </center> <br /> Welcome to my website! I am the director of policy analytics for the <a href="https://salemcenter.org">Salem Center for Policy</a> and a clinical assistant professor at the University of Texas at Austin.  I am also a visiting researcher at the University of Chicago.  My research develops computational methods for applied data analysis, especially in busines and social/behavioral sciences.  <br /><br />My identical twin is an Assistant Professor at Baylor College of Medicine. His website can be found <a href="https://cpuelz.github.io/">here</a>.
 logo: Puelz2.png
