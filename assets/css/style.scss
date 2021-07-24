@@ -1,6 +1,8 @@
 ---
 ---
 
+@import 'jekyll-theme-minimal';
+
 a:hover {   
    font-weight: initial;
    color: maroon; 
@@ -12,4 +14,4 @@ a.classhead:hover {
    font-weight: bold;
 }
 
-@import "{{ site.theme }}";
+
