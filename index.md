@@ -6,7 +6,7 @@ layout: default
 
 ### Causal inference and randomizations
 
-[A Graph-Theoretic Approach to Randomization Tests of Causal Effects Under General Interference](https://arxiv.org/pdf/1910.10862.pdf), with G Basse, A Feller, and P Toulis (2020).<br />    * [``R package``](https://github.com/dpuelz/CliqueRT/blob/master/README.md) under development.  <br />    * _Chicago Booth Review_ [video](https://review.chicagobooth.edu/economics/2021/video/how-companies-can-run-more-informative-experiments) (below) and [article](https://review.chicagobooth.edu/strategy/2020/article/how-improve-randomized-trials).
+[A Graph-Theoretic Approach to Randomization Tests of Causal Effects Under General Interference](https://arxiv.org/pdf/1910.10862.pdf), with G Basse, A Feller, and P Toulis _Journal of the Royal Statistical Society Series B_ (just accepted).<br />    * [``R package``](https://github.com/dpuelz/CliqueRT/blob/master/README.md) under development.  <br />    * _Chicago Booth Review_ [video](https://review.chicagobooth.edu/economics/2021/video/how-companies-can-run-more-informative-experiments) (below) and [article](https://review.chicagobooth.edu/strategy/2020/article/how-improve-randomized-trials).
 <center><iframe width="355.555" height="200" src="https://www.youtube.com/embed/Uf67jFCUIWs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <br/> 
 [Financial Literacy and Perceived Economic Outcomes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3302978), with R Puelz (2021).
