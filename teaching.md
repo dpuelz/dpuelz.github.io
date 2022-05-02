@@ -5,7 +5,7 @@ layout: default
 ## Machine Learning in Finance (Spring '22)
 <hr>
 
-PhD class at the University of Texas at Austin open to statistics, IROM, economics, and finance graduate students.  Topics covered included modeling stock return panel data with supervised learning methods, navigating the bias-variance tradeoff with low signal-to-noise data, causal machine learning, and regularization-induced confounding.  [Here is the course website](https://github.com/dpuelz/Machine-Learning-in-Finance).
+PhD class at the University of Texas at Austin open to statistics, IROM, economics, and finance graduate students.  Topics covered include modeling stock return panel data with supervised learning methods, navigating the bias-variance tradeoff with low signal-to-noise data, causal machine learning, and regularization-induced confounding.  [Here is the course website](https://github.com/dpuelz/Machine-Learning-in-Finance).
 
 
 ## Intro to Machine Learning (Summer '21,'22)
