@@ -6,9 +6,12 @@ layout: default
 
 ### Causal inference and randomizations
 
-[A Graph-Theoretic Approach to Randomization Tests of Causal Effects Under General Interference](https://arxiv.org/pdf/1910.10862.pdf), with G Basse, A Feller, and P Toulis, _Journal of the Royal Statistical Society, Series B_ (forthcoming).<br />    * [``R package``](https://github.com/dpuelz/CliqueRT/blob/master/README.md) under development.  <br />    * _Chicago Booth Review_ [video](https://review.chicagobooth.edu/economics/2021/video/how-companies-can-run-more-informative-experiments) (below) and [article](https://review.chicagobooth.edu/strategy/2020/article/how-improve-randomized-trials).
+[A Graph-Theoretic Approach to Randomization Tests of Causal Effects Under General Interference](https://arxiv.org/pdf/1910.10862.pdf), with G Basse, A Feller, and P Toulis, _Journal of the Royal Statistical Society, Series B_ (2022).<br />    * [``R package``](https://github.com/dpuelz/CliqueRT/blob/master/README.md) under development.  <br />    * _Chicago Booth Review_ [video](https://review.chicagobooth.edu/economics/2021/video/how-companies-can-run-more-informative-experiments) (below) and [article](https://review.chicagobooth.edu/strategy/2020/article/how-improve-randomized-trials).
 <center><iframe width="355.555" height="200" src="https://www.youtube.com/embed/Uf67jFCUIWs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <br/> 
+
+[Financial Literacy and Financial Well-being], with M Doh and R Puelz (2022).
+
 [Financial Literacy and Perceived Economic Outcomes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3302978), with R Puelz (2021).
 
 [Regularization and Confounding in Linear Regression for Treatment Effect Estimation](https://projecteuclid.org/euclid.ba/1484103680), with J He, PR Hahn, and C Carvalho, _Bayesian Analysis_ (2018).
@@ -26,7 +29,9 @@ layout: default
 
 [Regularization in Econometrics and Finance](https://repositories.lib.utexas.edu/bitstream/handle/2152/65998/PUELZ-DISSERTATION-2018.pdf), dissertation (2018).
 
-### COVID-19 reviews
+### Social science topics
+
+Analysis of SEIR Model Forecasts and their Magnificent Failure During the COVID-19 Pandemic (2022).
 
 [Review of: "Firearm Purchasing and Firearm Violence in the First Months of the Coronavirus Pandemic in the United States"](https://rapidreviewscovid19.mitpress.mit.edu/pub/3mbutnjm/release/2), with J Fisher, _Rapid Reviews: COVID-19_ (2020).
 
