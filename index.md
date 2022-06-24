@@ -40,7 +40,7 @@ Analysis of SEIR Model Forecasts and their Magnificent Failure During the COVID-
 
 Randomization Tests of Causal Effects Under General Interference ([slides](lunch_seminar.pdf) + [video](https://www.youtube.com/watch?v=hLmAXgVdQlc&t=899s)). Salem Center Causal Inference Seminar - UT Austin (2022) / Society for Political Methodology Annual Meeting - NYU (2021) / International Indian Statistical Association (2021) / Arizona State University (2020) / The University of Chicago Booth School of Business - Econometrics and Statistics Seminar (2019) / Atlantic Causal Inference Conference - McGill University (2019) /  International Conference on the Design of Experiments - University of Memphis (2019) / Society for Political Methodology Annual Meeting - MIT (2019) / Design and Analysis of Experiments - UT Knoxville (2019) / Advances with Field Experiments - Chicago Economics (2019).
 
-[A Flexible Model for Returns.](RPWorkshop.pdf) Statistical Methods in Finance (_forthcoming_) / Seminar on Bayesian Inference in Econometrics and Statistics - Brown University (2019) / Eastern Asia ISBA Conference - Kobe University (Japan, 2019) / The University of Chicago Booth School of Business - Research Workshop (2018).  
+[A Flexible Model for Returns.](RPWorkshop.pdf) Statistical Methods in Finance (2021) / Seminar on Bayesian Inference in Econometrics and Statistics - Brown University (2019) / Eastern Asia ISBA Conference - Kobe University (Japan, 2019) / The University of Chicago Booth School of Business - Research Workshop (2018).  
 
 [Posterior Summarization in Finance.](ISBA2018.pdf) International Society for Bayesian Analysis World Meeting - University of Edinburgh (2018).
 
