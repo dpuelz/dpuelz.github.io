@@ -12,7 +12,7 @@ layout: default
 
 Financial Literacy and Financial Well-being, with M Doh and R Puelz (2022).
 
-[Financial Literacy and Perceived Economic Outcomes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3302978), with R Puelz, _Statistics and Public Policy_ (forthcoming).
+[Financial Literacy and Perceived Economic Outcomes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3302978), with R Puelz, _Statistics and Public Policy_ (2022).
 
 [Regularization and Confounding in Linear Regression for Treatment Effect Estimation](https://projecteuclid.org/euclid.ba/1484103680), with J He, PR Hahn, and C Carvalho, _Bayesian Analysis_ (2018).
 
