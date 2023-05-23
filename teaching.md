@@ -2,13 +2,23 @@
 layout: default
 ---
 
+## Statistics for Executives (Fall '23)
+<hr>
+
+The core statistics course for the Executive MBA program at UT Austin.
+
+## Data Science for Economics and Policy (Spring '23)
+<hr>
+
+This is a semester-long course in statistics and data science to learn the tools necessary for policy, economics, and social science research. In parallel, students will apply these tools to real-world data and answer crucial policy questions.
+
 ## Machine Learning in Finance (Spring '22)
 <hr>
 
 PhD class at the University of Texas at Austin open to statistics, IROM, economics, and finance graduate students.  Topics covered include modeling stock return panel data with supervised learning methods, navigating the bias-variance tradeoff with low signal-to-noise data, causal machine learning, and regularization-induced confounding.  [Here is the course website](https://github.com/dpuelz/Machine-Learning-in-Finance).
 
 
-## Intro to Machine Learning (Summer '21,'22)
+## Intro to Machine Learning (Summer '21,'22,'23 / Fall '23: Working Professionals program)
 <hr>
 
 This is the second half of a two-part introductory course on predictive modeling for students in the MS program in Business Analytics at UT Austin. In the first half of the course, you learned about predictive models for labeled data (i.e. regression, or supervised learning). In the second half, we will turn to the following topics:
@@ -21,7 +31,7 @@ This is the second half of a two-part introductory course on predictive modeling
 The course is intended as an overview, rather than an in-depth treatment of any particular topic. We will move fast and cover a lot, but will focus on practical applications rather than theory.
 
 
-## Policy Research Laboratory (Fall '21,'22)
+## Policy Research Laboratory (Fall '21,'22,'23)
 <hr>
 
 The [Policy Research Laboratory](https://sites.google.com/view/policyresearchlaboratory/about) (PRL) is offered in the McCombs School of Business.  Students will take a semester-long course in statistics, econometrics, and data science to learn the tools necessary for policy and social science research. In parallel, the students will apply these tools to real-world data and answer crucial policy questions. Policy research is important, and appropriately using data, cutting-edge statistical tools and remaining skeptical are equally important. Students can expect to leave this class with a deep understanding of policy questions and a toolbox for evaluating them.
