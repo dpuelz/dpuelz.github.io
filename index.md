@@ -31,7 +31,7 @@ Financial Literacy and Financial Well-being, with M Doh and R Puelz (2022).
 
 ### Social science topics
 
-Analysis of SEIR Model Forecasts and their Magnificent Failure During the COVID-19 Pandemic (2022).
+[The Disutility of SEIR Model Forecasts During the COVID-19 Pandemic](Disutility_sep2023.pdf), with T Sudhakar, A Bhansali, and J Walkington (submitted).
 
 [Review of: "Firearm Purchasing and Firearm Violence in the First Months of the Coronavirus Pandemic in the United States"](https://rapidreviewscovid19.mitpress.mit.edu/pub/3mbutnjm/release/2), with J Fisher, _Rapid Reviews: COVID-19_ (2020).
 
