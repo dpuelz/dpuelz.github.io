@@ -37,6 +37,7 @@ Financial Literacy and Financial Well-being, with M Doh and R Puelz (2022).
 
 ## Talks
 <hr>
+[Randomization, Machine Learning, and Everything in Between](jobtalk.pdf).  The University of Austin (2024) - New College of Florida (2024).
 
 Randomization Tests of Causal Effects Under General Interference ([slides](lunch_seminar.pdf) + [video](https://www.youtube.com/watch?v=hLmAXgVdQlc&t=899s)). Salem Center Causal Inference Seminar - UT Austin (2022) / Society for Political Methodology Annual Meeting - NYU (2021) / International Indian Statistical Association (2021) / Arizona State University (2020) / The University of Chicago Booth School of Business - Econometrics and Statistics Seminar (2019) / Atlantic Causal Inference Conference - McGill University (2019) /  International Conference on the Design of Experiments - University of Memphis (2019) / Society for Political Methodology Annual Meeting - MIT (2019) / Design and Analysis of Experiments - UT Knoxville (2019) / Advances with Field Experiments - Chicago Economics (2019).
 
