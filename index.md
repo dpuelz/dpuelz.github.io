@@ -37,7 +37,7 @@ Financial Literacy and Financial Well-being, with M Doh and R Puelz (2022).
 
 ### Medicine
 
-[Identification of High-risk Variables for Pediatric Patients with Anomalous Aortic Origin of the Right Coronary using Statistical Modeling]([Disutility_sep2023.pdf](https://www.jacc.org/doi/abs/10.1016/S0735-1097%2824%2903572-1)), with C Puelz, D Reaves-O'Neal, and S Molossi (2024).
+[Identification of High-risk Variables for Pediatric Patients with Anomalous Aortic Origin of the Right Coronary using Statistical Modeling](https://www.jacc.org/doi/abs/10.1016/S0735-1097%2824%2903572-1), with C Puelz, D Reaves-O'Neal, and S Molossi, _Journal of the American College of Cardiology_ (2024).
 
 
 ## Talks
