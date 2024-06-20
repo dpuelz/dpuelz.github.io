@@ -33,7 +33,7 @@ Financial Literacy and Financial Well-being, with M Doh and R Puelz (2024).
 
 ### Social science topics
 
-[The Disutility of SEIR Model Forecasts During the COVID-19 Pandemic](Disutility_sep2023.pdf), with T Sudhakar, A Bhansali, and J Walkington (2024).
+[The Disutility of Compartmental Model Forecasts during the COVID-19 Pandemic]([Disutility_sep2023.pdf](https://www.frontiersin.org/articles/10.3389/fepid.2024.1389617/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Epidemiology&id=1389617)), with T Sudhakar, A Bhansali, and J Walkington, _Frontiers in Epidemiology_ (2024).
 
 [Review of: "Firearm Purchasing and Firearm Violence in the First Months of the Coronavirus Pandemic in the United States"](https://rapidreviewscovid19.mitpress.mit.edu/pub/3mbutnjm/release/2), with J Fisher, _Rapid Reviews: COVID-19_ (2020).
 
