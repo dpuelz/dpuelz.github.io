@@ -12,7 +12,7 @@ layout: default
 <center><iframe width="355.555" height="200" src="https://www.youtube.com/embed/Uf67jFCUIWs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <br/> 
 
-Financial Literacy and Financial Well-being, with M Doh and R Puelz (2024).
+[Financial Literacy and Financial Well-being](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4929341), with M Doh and R Puelz (2024).
 
 [Financial Literacy and Perceived Economic Outcomes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3302978), with R Puelz, _Statistics and Public Policy_ (2022).
 
