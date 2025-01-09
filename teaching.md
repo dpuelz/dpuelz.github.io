@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Quantitative Reasoning I and II (UATX) (Fall '24 + Winter '25)
-
+<hr>
 Two-part sequence in the Intellectual Foundations program at The University of Austin.
 
 ## Intro to Machine Learning (Summer '21,'22,'23,'24 + Fall '23,'24: Working Professionals program)
