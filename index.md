@@ -6,7 +6,7 @@ layout: default
 
 ### Causal inference and randomizations
 
-[Heterogeneous Treatment Effect Estimation under Noncompliance with Bayesian Tree Ensembles](https://arxiv.org/pdf/2408.07765), with J Fisher and S Deshpande, _submitted_ (2025).
+[Heterogenous Treatment Effect Estimation Under Noncompliance in The Illinois Workplace Wellness Study with Bayesian Tree Ensembles](https://arxiv.org/pdf/2408.07765), with J Fisher and S Deshpande, _submitted_ (2025).
 
 [A Graph-Theoretic Approach to Randomization Tests of Causal Effects Under General Interference](https://arxiv.org/pdf/1910.10862.pdf), with G Basse, A Feller, and P Toulis, _Journal of the Royal Statistical Society, Series B_ (2022).<br />    * [``R package``](https://github.com/dpuelz/CliqueRT/blob/master/README.md) under development.  <br />    * _Chicago Booth Review_ [video](https://review.chicagobooth.edu/economics/2021/video/how-companies-can-run-more-informative-experiments) (below) and [article](https://review.chicagobooth.edu/strategy/2020/article/how-improve-randomized-trials).
 <center><iframe width="355.555" height="200" src="https://www.youtube.com/embed/Uf67jFCUIWs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
