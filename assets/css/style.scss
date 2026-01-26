@@ -3,11 +3,31 @@
 
 @import 'jekyll-theme-minimal';
 
-// Override theme's container constraints
+// Override theme's container constraints - must be very aggressive
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  width: 100% !important;
+  max-width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  overflow-x: hidden;
+}
+
 .container,
-.wrapper {
+.wrapper,
+#main_content,
+.main-content,
+.site-header,
+.site-footer,
+.page-header,
+.page-content {
   max-width: 100% !important;
   width: 100% !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
 }
 
 // Clean minimal design
@@ -29,8 +49,8 @@ body {
   width: 100% !important;
   margin: 0 !important;
   padding: 50px 60px !important;
-  display: grid;
-  grid-template-columns: 320px 1fr;
+  display: grid !important;
+  grid-template-columns: 320px 1fr !important;
   gap: 100px;
   align-items: start;
   box-sizing: border-box;
