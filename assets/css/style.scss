@@ -3,15 +3,303 @@
 
 @import 'jekyll-theme-minimal';
 
-a:hover {   
-   font-weight: initial;
-   color: orange; 
+// Clean minimal design
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-size: 15px;
+  line-height: 1.5;
+  color: #000;
+  background-color: #fafafa;
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.wrapper {
+  max-width: 100%;
+  margin: 0;
+  padding: 50px 60px;
+  display: grid;
+  grid-template-columns: 320px 1fr;
+  gap: 100px;
+  align-items: start;
+}
+
+h1 {
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  margin: 0 0 30px 0;
+  line-height: 1.2;
+}
+
+h2 {
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  margin: 80px 0 30px 0;
+  padding: 0 0 10px 0;
+  border-bottom: 2px solid #000;
+}
+
+h2:first-of-type {
+  margin-top: 0;
+}
+
+h3 {
+  font-size: 11px;
+  font-weight: 400;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  margin: 50px 0 20px 0;
+}
+
+p {
+  margin: 0 0 20px 0;
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+a {
+  color: #000;
+  text-decoration: underline;
+  text-decoration-thickness: 0.5px;
+  text-underline-offset: 2px;
+  transition: opacity 0.2s;
+}
+
+a:hover {
+  opacity: 0.5;
+  font-weight: initial;
+  color: orange;
+}
+
+a.classhead {
+  text-decoration: none;
 }
 
 a.classhead:hover {
-   text-decoration: none; 
-   color: orange; 
-   font-weight: bold;
+  text-decoration: none;
+  color: orange;
+  font-weight: bold;
 }
 
+// Left sidebar
+.sidebar {
+  position: sticky;
+  top: 50px;
+  height: fit-content;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+}
 
+.sidebar h1 {
+  margin-bottom: 25px;
+  text-align: center;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+}
+
+.sidebar img {
+  display: block;
+  margin: 0 auto 25px auto;
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.sidebar p {
+  font-size: 15px;
+  line-height: 1.5;
+  margin: 0 0 30px 0;
+  text-align: left;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+}
+
+.sidebar-section {
+  margin: 30px 0;
+  padding-top: 20px;
+  border-top: 1px solid #000;
+}
+
+.sidebar-section:first-of-type {
+  border-top: none;
+  padding-top: 0;
+}
+
+.sidebar-section h3 {
+  font-size: 10px;
+  font-weight: 400;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  margin: 0 0 12px 0;
+}
+
+.sidebar-section ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sidebar-section li {
+  margin: 6px 0;
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+// Main content
+section {
+  margin: 0;
+}
+
+// Project entries
+.project-entry {
+  margin-bottom: 40px;
+  display: grid;
+  grid-template-columns: 1fr minmax(300px, 35vw);
+  gap: 60px;
+  align-items: start;
+}
+
+// Less spacing for talks and teaching
+h2 + .project-entry,
+h2 ~ .project-entry {
+  margin-bottom: 25px;
+}
+
+.project-entry:not(:has(.project-thumbnail img)):not(:has(.project-thumbnail iframe)) {
+  grid-template-columns: 1fr;
+}
+
+.project-content {
+  grid-column: 1;
+}
+
+.project-title {
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 0.05em;
+  text-transform: none;
+  margin: 0 0 8px 0;
+  line-height: 1.4;
+}
+
+.project-title a {
+  text-decoration: none;
+}
+
+.project-title a:hover {
+  opacity: 0.5;
+}
+
+.project-meta {
+  font-size: 15px;
+  margin: 8px 0;
+  color: #666;
+  font-style: normal;
+  line-height: 1.5;
+}
+
+.project-description {
+  font-size: 15px;
+  line-height: 1.5;
+  margin: 12px 0;
+}
+
+.project-thumbnail {
+  grid-column: 2;
+  width: 100%;
+  max-width: 600px;
+  aspect-ratio: 4 / 2.5;
+  background-color: #ffffff;
+  overflow: hidden;
+  align-self: start;
+}
+
+.project-thumbnail img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
+}
+
+.project-thumbnail iframe {
+  width: 100%;
+  height: 100%;
+  display: block;
+  border: none;
+}
+
+// Video container (for videos not in thumbnails)
+.video-container {
+  margin: 20px 0;
+  width: 100%;
+  max-width: 560px;
+}
+
+// Lists
+ul, ol {
+  margin: 12px 0;
+  padding-left: 20px;
+}
+
+li {
+  margin: 6px 0;
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+// Footer
+footer {
+  grid-column: 1 / -1;
+  margin-top: 80px;
+  padding-top: 0;
+  border-top: none;
+  text-align: left;
+  font-size: 13px;
+  color: #666;
+}
+
+// Responsive
+@media (max-width: 1024px) {
+  .wrapper {
+    padding: 40px 40px;
+    gap: 80px;
+  }
+  
+  .project-entry {
+    grid-template-columns: 1fr minmax(250px, 40vw);
+    gap: 50px;
+  }
+}
+
+@media (max-width: 768px) {
+  .wrapper {
+    grid-template-columns: 1fr;
+    gap: 40px;
+    padding: 30px 20px;
+  }
+  
+  .sidebar {
+    position: static;
+  }
+  
+  .project-entry {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+  
+  .project-thumbnail {
+    width: 100%;
+    height: 200px;
+    grid-column: 1;
+  }
+  
+  iframe {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+  }
+}
