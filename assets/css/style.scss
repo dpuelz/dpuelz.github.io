@@ -4,6 +4,7 @@
 @import 'jekyll-theme-minimal';
 
 // Override theme's container constraints - must be very aggressive
+// The theme sets .wrapper{width:860px;margin:0 auto} which we need to override
 * {
   box-sizing: border-box;
 }
@@ -16,9 +17,32 @@ html, body {
   overflow-x: hidden;
 }
 
+// Override theme's fixed width wrapper - this is critical!
+div.wrapper,
+.wrapper,
+div.wrapper.wrapper,
+body .wrapper,
+html body .wrapper {
+  width: 100% !important;
+  max-width: 100% !important;
+  margin: 0 !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+// Override theme's header and section float layout
+header,
+section,
+footer {
+  float: none !important;
+  position: static !important;
+  width: auto !important;
+}
+
 // Override ALL possible container classes from the theme
 .container,
-.wrapper,
 #main_content,
 .main-content,
 .site-header,
@@ -39,16 +63,16 @@ html, body {
 
 // Clean minimal design
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
-  font-size: 15px;
-  line-height: 1.5;
-  color: #000;
-  background-color: #fafafa;
-  margin: 0;
-  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif !important;
+  font-size: 15px !important;
+  line-height: 1.5 !important;
+  color: #000 !important;
+  background-color: #fafafa !important;
+  margin: 0 !important;
+  padding: 0 !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  width: 100%;
+  width: 100% !important;
 }
 
 .wrapper {
