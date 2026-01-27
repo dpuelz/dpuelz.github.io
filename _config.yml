@@ -1,7 +1,8 @@
 theme: jekyll-theme-minimal
 title: David Puelz
-description: Welcome to my website! I am a statistician and professor at The University of Austin (UATX).  My research develops computational methods for applied data analysis, especially in business, economics, and the behavioral sciences.
+description: Statistician and professor at The University of Austin (UATX). My research develops computational methods for applied data analysis, especially in business, economics, and the behavioral sciences.
 logo: puelz-2.png
+url: https://www.davidpuelz.com
 
 exclude:
   - venv/
