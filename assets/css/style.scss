@@ -146,6 +146,37 @@ a:hover {
   color: #000080;
 }
 
+// Ensure sidebar links match main content links exactly - override any theme styles
+aside a,
+aside .sidebar a,
+.sidebar a,
+.sidebar-section a,
+.sidebar p a,
+.sidebar-section li a,
+.sidebar ul a,
+.sidebar ul li a {
+  color: #000 !important;
+  text-decoration: underline !important;
+  text-decoration-thickness: 0.5px !important;
+  text-underline-offset: 2px !important;
+  font-weight: normal !important;
+  font-size: 15px !important;
+}
+
+aside a:hover,
+aside .sidebar a:hover,
+.sidebar a:hover,
+.sidebar-section a:hover,
+.sidebar p a:hover,
+.sidebar-section li a:hover,
+.sidebar ul a:hover,
+.sidebar ul li a:hover {
+  opacity: 1 !important;
+  color: #000080 !important;
+  font-weight: initial !important;
+  text-decoration: underline !important;
+}
+
 a.classhead {
   text-decoration: none;
 }
