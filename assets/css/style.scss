@@ -8,9 +8,8 @@ aside a,
 aside .sidebar a,
 aside .sidebar-section a {
   color: #000 !important;
-  text-decoration: underline !important;
-  text-decoration-thickness: 0.5px !important;
-  text-underline-offset: 2px !important;
+  text-decoration: none !important;
+  transition: opacity 0.2s !important;
 }
 
 aside a:hover,
@@ -18,6 +17,8 @@ aside .sidebar a:hover,
 aside .sidebar-section a:hover {
   color: #000080 !important;
   opacity: 1 !important;
+  font-weight: initial !important;
+  text-decoration: none !important;
 }
 
 // Override theme's container constraints - must be very aggressive
@@ -62,15 +63,16 @@ footer {
 header a,
 aside a {
   color: #000 !important;
-  text-decoration: underline !important;
-  text-decoration-thickness: 0.5px !important;
-  text-underline-offset: 2px !important;
+  text-decoration: none !important;
+  transition: opacity 0.2s !important;
 }
 
 header a:hover,
 aside a:hover {
   color: #000080 !important;
   opacity: 1 !important;
+  font-weight: initial !important;
+  text-decoration: none !important;
 }
 
 // Override ALL possible container classes from the theme
@@ -166,16 +168,28 @@ p {
 
 a {
   color: #000;
-  text-decoration: underline;
-  text-decoration-thickness: 0.5px;
-  text-underline-offset: 2px;
+  text-decoration: none;
   transition: opacity 0.2s;
 }
 
+// Main content links hover - ensure this applies to all links except sidebar
+section a:hover,
+.project-title a:hover,
+.project-meta a:hover,
+.project-description a:hover,
+section p a:hover {
+  opacity: 1;
+  font-weight: initial;
+  color: #000080;
+  text-decoration: none;
+}
+
+// Fallback for any other links
 a:hover {
   opacity: 1;
   font-weight: initial;
   color: #000080;
+  text-decoration: none;
 }
 
 // Ensure sidebar links match main content links exactly - override any theme styles
@@ -476,9 +490,7 @@ aside.sidebar a,
 .sidebar ul li a,
 .sidebar-section ul li a {
   color: #000 !important;
-  text-decoration: underline !important;
-  text-decoration-thickness: 0.5px !important;
-  text-underline-offset: 2px !important;
+  text-decoration: none !important;
   font-weight: normal !important;
   font-size: 15px !important;
   border: none !important;
@@ -506,8 +518,8 @@ aside.sidebar a:hover,
   color: #000080 !important;
   opacity: 1 !important;
   font-weight: initial !important;
-  text-decoration: underline !important;
-  text-decoration-thickness: 0.5px !important;
+  text-decoration: none !important;
   border: none !important;
   background: none !important;
+  transition: opacity 0.2s !important;
 }
