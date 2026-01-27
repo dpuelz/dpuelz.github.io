@@ -16,7 +16,7 @@ aside a:hover,
 aside .sidebar a:hover,
 aside .sidebar-section a:hover {
   color: #000080 !important;
-  opacity: 1 !important;
+  opacity: 0.5 !important;
   font-weight: initial !important;
   text-decoration: none !important;
 }
@@ -70,7 +70,7 @@ aside a {
 header a:hover,
 aside a:hover {
   color: #000080 !important;
-  opacity: 1 !important;
+  opacity: 0.5 !important;
   font-weight: initial !important;
   text-decoration: none !important;
 }
@@ -169,6 +169,7 @@ p {
 a {
   color: #000;
   text-decoration: none;
+  opacity: 1;
   transition: opacity 0.2s;
 }
 
@@ -178,17 +179,17 @@ section a:hover,
 .project-meta a:hover,
 .project-description a:hover,
 section p a:hover {
-  opacity: 1;
+  opacity: 0.5 !important;
   font-weight: initial;
-  color: #000080;
+  color: #000080 !important;
   text-decoration: none;
 }
 
 // Fallback for any other links
 a:hover {
-  opacity: 1;
+  opacity: 0.5 !important;
   font-weight: initial;
-  color: #000080;
+  color: #000080 !important;
   text-decoration: none;
 }
 
@@ -311,6 +312,7 @@ h2 ~ .project-entry {
 
 .project-title a:hover {
   opacity: 0.5;
+  color: #000080;
 }
 
 .project-meta {
@@ -491,6 +493,7 @@ aside.sidebar a,
 .sidebar-section ul li a {
   color: #000 !important;
   text-decoration: none !important;
+  opacity: 1 !important;
   font-weight: normal !important;
   font-size: 15px !important;
   border: none !important;
@@ -516,10 +519,9 @@ aside.sidebar a:hover,
 .sidebar ul li a:hover,
 .sidebar-section ul li a:hover {
   color: #000080 !important;
-  opacity: 1 !important;
+  opacity: 0.5 !important;
   font-weight: initial !important;
   text-decoration: none !important;
   border: none !important;
   background: none !important;
-  transition: opacity 0.2s !important;
 }
