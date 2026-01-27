@@ -3,6 +3,23 @@
 
 @import 'jekyll-theme-minimal';
 
+// Immediately override theme link colors for sidebar
+aside a,
+aside .sidebar a,
+aside .sidebar-section a {
+  color: #000 !important;
+  text-decoration: underline !important;
+  text-decoration-thickness: 0.5px !important;
+  text-underline-offset: 2px !important;
+}
+
+aside a:hover,
+aside .sidebar a:hover,
+aside .sidebar-section a:hover {
+  color: #000080 !important;
+  opacity: 1 !important;
+}
+
 // Override theme's container constraints - must be very aggressive
 // The theme sets .wrapper{width:860px;margin:0 auto} which we need to override
 * {
@@ -39,6 +56,21 @@ footer {
   float: none !important;
   position: static !important;
   width: auto !important;
+}
+
+// Override theme's header link styles that might affect sidebar
+header a,
+aside a {
+  color: #000 !important;
+  text-decoration: underline !important;
+  text-decoration-thickness: 0.5px !important;
+  text-underline-offset: 2px !important;
+}
+
+header a:hover,
+aside a:hover {
+  color: #000080 !important;
+  opacity: 1 !important;
 }
 
 // Override ALL possible container classes from the theme
@@ -147,35 +179,7 @@ a:hover {
 }
 
 // Ensure sidebar links match main content links exactly - override any theme styles
-aside a,
-aside .sidebar a,
-.sidebar a,
-.sidebar-section a,
-.sidebar p a,
-.sidebar-section li a,
-.sidebar ul a,
-.sidebar ul li a {
-  color: #000 !important;
-  text-decoration: underline !important;
-  text-decoration-thickness: 0.5px !important;
-  text-underline-offset: 2px !important;
-  font-weight: normal !important;
-  font-size: 15px !important;
-}
-
-aside a:hover,
-aside .sidebar a:hover,
-.sidebar a:hover,
-.sidebar-section a:hover,
-.sidebar p a:hover,
-.sidebar-section li a:hover,
-.sidebar ul a:hover,
-.sidebar ul li a:hover {
-  opacity: 1 !important;
-  color: #000080 !important;
-  font-weight: initial !important;
-  text-decoration: underline !important;
-}
+// This section removed - handled at end of file with higher specificity
 
 a.classhead {
   text-decoration: none;
@@ -452,7 +456,10 @@ footer {
 }
 
 // Final override for sidebar links - must be at the end to override everything
+// Target every possible selector combination
 body aside a,
+body .wrapper aside a,
+body .wrapper .sidebar a,
 body .sidebar a,
 body .sidebar-section a,
 body .sidebar p a,
@@ -462,16 +469,25 @@ body .sidebar-section ul a,
 body .sidebar-section ul li a,
 .wrapper aside a,
 .wrapper .sidebar a,
-.wrapper .sidebar-section a {
+.wrapper .sidebar-section a,
+aside.sidebar a,
+.sidebar-section a,
+.sidebar p a,
+.sidebar ul li a,
+.sidebar-section ul li a {
   color: #000 !important;
   text-decoration: underline !important;
   text-decoration-thickness: 0.5px !important;
   text-underline-offset: 2px !important;
   font-weight: normal !important;
   font-size: 15px !important;
+  border: none !important;
+  background: none !important;
 }
 
 body aside a:hover,
+body .wrapper aside a:hover,
+body .wrapper .sidebar a:hover,
 body .sidebar a:hover,
 body .sidebar-section a:hover,
 body .sidebar p a:hover,
@@ -481,10 +497,17 @@ body .sidebar-section ul a:hover,
 body .sidebar-section ul li a:hover,
 .wrapper aside a:hover,
 .wrapper .sidebar a:hover,
-.wrapper .sidebar-section a:hover {
+.wrapper .sidebar-section a:hover,
+aside.sidebar a:hover,
+.sidebar-section a:hover,
+.sidebar p a:hover,
+.sidebar ul li a:hover,
+.sidebar-section ul li a:hover {
   color: #000080 !important;
   opacity: 1 !important;
   font-weight: initial !important;
   text-decoration: underline !important;
   text-decoration-thickness: 0.5px !important;
+  border: none !important;
+  background: none !important;
 }
