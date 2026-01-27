@@ -277,7 +277,7 @@ section {
 .project-entry {
   margin-bottom: 40px;
   display: grid;
-  grid-template-columns: 1fr minmax(300px, 35vw);
+  grid-template-columns: 1fr minmax(240px, 28vw);
   gap: 60px;
   align-items: start;
 }
@@ -331,7 +331,7 @@ h2 ~ .project-entry {
 .project-thumbnail {
   grid-column: 2;
   width: 100%;
-  max-width: 540px;
+  max-width: 432px;
   aspect-ratio: 4 / 2.5;
   background-color: #ffffff;
   overflow: hidden;
