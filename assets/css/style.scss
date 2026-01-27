@@ -218,6 +218,21 @@ a.classhead:hover {
   line-height: 1.5;
 }
 
+.sidebar a,
+.sidebar-section a {
+  color: #000;
+  text-decoration: underline;
+  text-decoration-thickness: 0.5px;
+  text-underline-offset: 2px;
+  transition: opacity 0.2s;
+}
+
+.sidebar a:hover,
+.sidebar-section a:hover {
+  opacity: 1;
+  color: #000080;
+}
+
 // Main content
 section {
   margin: 0;
