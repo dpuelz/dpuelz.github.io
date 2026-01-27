@@ -358,20 +358,45 @@ footer {
   .sidebar {
     position: static !important;
     width: 100% !important;
+    border: none !important;
+    border-top: none !important;
+    border-bottom: none !important;
+    border-left: none !important;
+    border-right: none !important;
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
   }
   
   .sidebar h1 {
-    text-align: left !important;
+    text-align: center !important;
   }
   
   .sidebar img {
-    margin: 0 0 25px 0 !important;
+    margin: 0 auto 25px auto !important;
+    display: block !important;
+  }
+  
+  .sidebar-section {
+    border-top: none !important;
+    border-bottom: none !important;
+    border-left: none !important;
+    border-right: none !important;
+    margin-top: 20px !important;
+    padding-top: 0 !important;
+  }
+  
+  section {
+    border: none !important;
+    border-top: none !important;
+    margin-top: 0 !important;
+    padding-top: 0 !important;
   }
   
   .project-entry {
     grid-template-columns: 1fr !important;
     gap: 20px !important;
     display: grid !important;
+    border: none !important;
   }
   
   .project-thumbnail {
