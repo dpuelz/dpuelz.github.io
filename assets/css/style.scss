@@ -249,22 +249,6 @@ a.classhead:hover {
   line-height: 1.5;
 }
 
-.sidebar a,
-.sidebar-section a,
-.sidebar p a {
-  color: #000 !important;
-  text-decoration: underline !important;
-  text-decoration-thickness: 0.5px !important;
-  text-underline-offset: 2px !important;
-  transition: opacity 0.2s;
-}
-
-.sidebar a:hover,
-.sidebar-section a:hover,
-.sidebar p a:hover {
-  opacity: 1 !important;
-  color: #000080 !important;
-}
 
 // Main content
 section {
@@ -465,4 +449,42 @@ footer {
     margin-top: 50px !important;
     margin-bottom: 20px !important;
   }
+}
+
+// Final override for sidebar links - must be at the end to override everything
+body aside a,
+body .sidebar a,
+body .sidebar-section a,
+body .sidebar p a,
+body .sidebar ul a,
+body .sidebar ul li a,
+body .sidebar-section ul a,
+body .sidebar-section ul li a,
+.wrapper aside a,
+.wrapper .sidebar a,
+.wrapper .sidebar-section a {
+  color: #000 !important;
+  text-decoration: underline !important;
+  text-decoration-thickness: 0.5px !important;
+  text-underline-offset: 2px !important;
+  font-weight: normal !important;
+  font-size: 15px !important;
+}
+
+body aside a:hover,
+body .sidebar a:hover,
+body .sidebar-section a:hover,
+body .sidebar p a:hover,
+body .sidebar ul a:hover,
+body .sidebar ul li a:hover,
+body .sidebar-section ul a:hover,
+body .sidebar-section ul li a:hover,
+.wrapper aside a:hover,
+.wrapper .sidebar a:hover,
+.wrapper .sidebar-section a:hover {
+  color: #000080 !important;
+  opacity: 1 !important;
+  font-weight: initial !important;
+  text-decoration: underline !important;
+  text-decoration-thickness: 0.5px !important;
 }
