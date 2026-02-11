@@ -8,9 +8,9 @@ title: David Puelz, Ph.D.
 <div class="project-entry">
 <div class="project-content">
 <div class="project-title">
-<a href="TexasTech_report_2026.pdf">Racial Preferences</a>
+<a href="TexasTech_report_2026.pdf">Racial Preferences at a Texas Medical School</a>
 </div>
-<div class="project-meta">Texas Tech report (2026)</div>
+<div class="project-meta"> <em>working paper</em> (2026)</div>
 </div>
 <div class="project-thumbnail">
 <img src="thumbnails/thumb_racialpreferences.png" alt="Paper thumbnail" />
