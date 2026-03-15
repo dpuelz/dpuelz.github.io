@@ -12,8 +12,8 @@ title: David Puelz, Ph.D.
 </div>
 <div class="project-meta"> <em>working paper</em> (2026)</div>
 <div class="project-description">
-* <a href="UTSouthwestern_report.pdf">UT Southwestern</a><br />
-* <a href="UTDell_report.pdf">UT Dell</a>
+* <a href="UTSouthwestern_report.pdf">UT Southwestern Medical School Admissions Analysis</a><br />
+* <a href="UTDell_report.pdf">UT Dell Medical School Admissions Analysis</a>
 </div>
 </div>
 <div class="project-thumbnail">
