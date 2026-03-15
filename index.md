@@ -11,6 +11,10 @@ title: David Puelz, Ph.D.
 <a href="TexasTech_report_2026.pdf">Racial Preferences at a Texas Medical School</a>
 </div>
 <div class="project-meta"> <em>working paper</em> (2026)</div>
+<div class="project-description">
+* <a href="UTSouthwestern_report.pdf">UT Southwestern</a><br />
+* <a href="UTDell_report.pdf">UT Dell</a>
+</div>
 </div>
 <div class="project-thumbnail">
 <img src="thumbnails/thumb_racialpreferences.png" alt="Paper thumbnail" />
