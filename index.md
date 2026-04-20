@@ -13,7 +13,8 @@ title: David Puelz, Ph.D.
 <div class="project-meta"> <em>working paper</em> (2026)</div>
 <div class="project-description">
 * <a href="UTSouthwestern_report.pdf">UT Southwestern Medical School Admissions Analysis</a><br />
-* <a href="UTDell_report.pdf">UT Dell Medical School Admissions Analysis</a>
+* <a href="UTDell_report.pdf">UT Dell Medical School Admissions Analysis</a><br />
+* <a href="https://www.realclearpolitics.com/articles/2026/04/16/higher_ed_is_hiding_racial_discrimination_154041.html" style="color: #8B0000;">Higher Ed is Hiding Racial Discrimination</a>, <em>Real Clear Politics</em> op-ed (2026)
 </div>
 </div>
 <div class="project-thumbnail">
