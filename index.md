@@ -29,7 +29,7 @@ title: David Puelz, Ph.D.
 <div class="project-title">
 <a href="https://arxiv.org/pdf/2408.07765">Heterogenous Treatment Effect Estimation Under Noncompliance in The Illinois Workplace Wellness Study with Bayesian Tree Ensembles</a>
 </div>
-<div class="project-meta">with J Fisher and S Deshpande, <em>submitted</em> (2025)</div>
+<div class="project-meta">with J Fisher and S Deshpande, <em>Annals of Applied Statistics</em> (to appear)</div>
 </div>
 <div class="project-thumbnail">
 <img src="thumbnails/thumb_bayeshet.png" alt="Paper thumbnail" />
